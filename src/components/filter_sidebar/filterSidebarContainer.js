@@ -98,7 +98,7 @@ class FilterSidebarContainer extends React.Component {
             </Col>
           </Row>
         </Container>
-        <Footer />
+        <Footer/>
       </>
     );
   }
